@@ -1,7 +1,7 @@
 # RTGs
 Radioisotope Thermoelectric Generators for KSP!
 ---------------------------------------------------
-v. 0.1.0
+v. 0.2.0
 
 Developed and tested for KSP 1.2.2
 
@@ -9,4 +9,16 @@ This mod adds a small collection of RTGs for Kerbal Space Program. They represen
 
 Currently available RTGs:
 
-- MMRTG.
+- MMRTG;
+- GPHS.
+
+RTGs to implement in future versions:
+
+- ASRG;
+- MHW;
+- SNAP-3B;
+- SNAP-9A;
+- SNAP-10A;
+- SNAP-19;
+- SNAP-27;
+- BES-5.
