@@ -1,6 +1,6 @@
 # RTGs
 Radioisotope Thermoelectric Generators for KSP!
-http://forum.kerbalspaceprogram.com/index.php?/topic/155653-wip122-realisticcomponents-suite-01-27-17/
+http://forum.kerbalspaceprogram.com/index.php?/topic/155653-wip122-realisticcomponents-suite-01-30-17/
 ---------------------------------------------------
 v. 0.3.0
 
