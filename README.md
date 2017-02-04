@@ -1,8 +1,8 @@
 # RTGs
 Radioisotope Thermoelectric Generators for KSP!
-http://forum.kerbalspaceprogram.com/index.php?/topic/155653-wip122-realisticcomponents-suite-02-02-17/
+http://forum.kerbalspaceprogram.com/index.php?showtopic=155653
 ---------------------------------------------------
-v. 0.3.1
+v. 0.4.0
 
 Developed and tested for KSP 1.2.2
 
@@ -16,11 +16,11 @@ Currently available RTGs:
 
 - MMRTG;
 - GPHS;
-- ASRG.
+- ASRG;
+- MHW.
 
 RTGs to implement in future versions:
 
-- MHW;
 - SNAP-3B;
 - SNAP-9A;
 - SNAP-10A;
@@ -30,6 +30,7 @@ RTGs to implement in future versions:
 
 CHANGELOG:
 
+- v. 0.4.0 - MHW added
 - v. 0.3.1 - Fixed GPHS and MMRTG
 - v. 0.3.0 - ASRG added
 - v. 0.2.0 - GPHS added
