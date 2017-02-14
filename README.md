@@ -2,7 +2,7 @@
 Radioisotope Thermoelectric Generators for KSP!
 http://forum.kerbalspaceprogram.com/index.php?showtopic=155653
 ---------------------------------------------------
-v. 0.6.0
+v. 0.7.0
 
 Developed and tested for KSP 1.2.2
 
@@ -19,17 +19,18 @@ Currently available RTGs:
 - ASRG;
 - MHW;
 - SNAP-3B;
-- SNAP-9A.
+- SNAP-9A;
+- SNAP-19;
+- SNAP-27.
 
 RTGs to implement in future versions:
 
 - SNAP-10A;
-- SNAP-19;
-- SNAP-27;
 - BES-5.
 
 CHANGELOG:
 
+- v. 0.7.0 - SNAP-19 and SNAP-27 added
 - v. 0.6.0 - SNAP-3A added
 - v. 0.5.0 - SNAP-3B added
 - v. 0.4.0 - MHW added
