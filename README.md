@@ -6,7 +6,7 @@ v. 0.8.0
 
 Developed and tested for KSP 1.2.2
 
-This mod adds a small collection of RTGs for Kerbal Space Program. They represent - as correctly as possible - their real counterparts in shape, weight, size; it is hard to convert the W of real life into the EC/s of KSP, and therefore the output power is kept equal to that of the stock PB-NUK RTG (80 EC/s). The Realism Overhaul config file solves this issue by using the RO units for power, kW. In addition to this, the amount of Pu-238 contained in the RTGs is modeled quite accurately.
+This mod adds a small collection of RTGs for Kerbal Space Program. They represent - as correctly as possible - their real counterparts in shape, weight, size; it is hard to convert the W of real life into the EC/s of KSP, and therefore the output power is kept equal to that of the stock PB-NUK RTG (80 EC/s) in the configuration files of the parts. The Realism Overhaul config file solves this issue by using the RO units for power, kW. In addition to this, the amount of Pu-238 contained in the RTGs is modeled quite accurately.
 MiniAVC (http://forum.kerbalspaceprogram.com/threads/79745) is used in order to give KSP information about the currently installed version of the mod.
 
 INSTALLATION:
@@ -23,7 +23,7 @@ Currently available RTGs:
 - SNAP-19;
 - SNAP-27.
 
-RTGs to implement in future versions:
+Space nuclear reactors to implement in future versions:
 
 - SNAP-10A;
 - BES-5.
